@@ -52,7 +52,7 @@ idea:- sorted array will have same elements be adjacent
 - Time: $O(n\log n)$
 - Space: $O(1)$
 
-### Solution 3: Using hash table
+### Solution 3: Using hash table [optimal]
 ex:- [1,2,3,1]
 
 idea:- all items in a hash set are unique
