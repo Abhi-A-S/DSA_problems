@@ -60,5 +60,5 @@ idea:- all items in a hash set are unique
 - if the element is repeated then, then it will be present in the hash set already
 
 #### Complexity
-- Time: $O(n\log n)$
+- Time: $O(n)$
 - Space: $O(1)$
