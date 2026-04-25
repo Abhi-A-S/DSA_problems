@@ -1,4 +1,4 @@
-# Group Anagrams
+# Longest Repeating Character Replacement
 neetcode.io/problems/longest-substring-without-duplicates/question?list=blind75
 
 ## Topics:

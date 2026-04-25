@@ -1,4 +1,4 @@
-# Concatenation of Array
+# 3Sum
 https://neetcode.io/problems/three-integer-sum/question?list=blind75
 
 ## Topics:

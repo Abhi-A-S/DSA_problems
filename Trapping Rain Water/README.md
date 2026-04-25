@@ -1,4 +1,4 @@
-# Valid Anagram
+# Trapping Rain Water
 
 https://neetcode.io/problems/is-anagram/question?list=blind75
 

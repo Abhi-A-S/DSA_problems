@@ -1,4 +1,4 @@
-# Group Anagrams
+# Longest Substring Without Repeating Characters
 neetcode.io/problems/longest-substring-without-duplicates/question?list=blind75
 
 ## Topics:
