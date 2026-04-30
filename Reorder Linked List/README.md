@@ -1,4 +1,4 @@
-# Best Time to Buy and Sell Stock
+# Reorder Linked List
 https://neetcode.io/problems/reorder-linked-list/question?list=blind75
 
 ## Topics:
@@ -10,7 +10,7 @@ You should aim for a solution with O(n) time and O(1) space, where n is the leng
 
 
 ## Solutions
-### Solution 1: using sliding window [optimal]
+### Solution 1: spliting the linked list into two parts [optimal]
 Input: linked list = [1, 2, 3, 4]
 output: [1, 4, 3, 2]
 
